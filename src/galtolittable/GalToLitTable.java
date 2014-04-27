@@ -28,7 +28,7 @@ public class GalToLitTable {
             counter++;
             if(counter == 10) {
                 System.out.println();
-                counter = 0
+                counter = 0;
             }
         }
     
